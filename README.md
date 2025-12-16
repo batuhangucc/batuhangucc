@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/batuhangucc/batuhangucc/main/BatuhanGuc.JPG" width="500" />
+  <img src="https://raw.githubusercontent.com/batuhangucc/batuhangucc/main/Banner.png" width="700" />
 </p>
 
 <h1 align="center">Selam, ben Batuhan Güç 👋</h1>
