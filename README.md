@@ -29,8 +29,7 @@ Game jam’ler, ekip projeleri ve topluluklar aracılığıyla kendimi sürekli 
 
 ## 🎮 Öne Çıkan Projeler
 - **Memory War** – Puzzle / Prototype  
-- **Color Switch Clone** – Mobile Game  
-- **Time Clone** – Puzzle Platformer  
+- **Color Switch Clone** – Mobile Game
 
 ---
 
