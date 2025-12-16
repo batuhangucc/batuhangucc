@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Selam, ben Batuhan Güç 👋</h1>
 
-<!--
-**batuhangucc/batuhangucc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎮 Game Developer | Unity • Mobile & PC | Gameplay Focused
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Hakkımda
+Bilgisayar Mühendisiyim ve Unity & C# ile oyun geliştiren bir Game Developer’ım.  
+Puzzle ve casual oyunlar üzerine çalışıyor, oyuncu odaklı ve yaratıcı deneyimler üretmeye odaklanıyorum.
+
+Game jam’ler, ekip projeleri ve topluluklar aracılığıyla kendimi sürekli geliştiriyorum.
+
+---
+
+## 🛠️ Kullandığım Teknolojiler
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=unity,cs,git,github" />
+</p>
+
+- 🧠 ChatGPT — prototipleme, problem çözme ve teknik araştırma için
+
+---
+
+## 🎮 Öne Çıkan Projeler
+- **Memory War** – Puzzle / Prototype  
+- **Color Switch Clone** – Mobile Game  
+- **Time Clone** – Puzzle Platformer  
+
+---
+
+## 🔗 Linkler
+- 🌐 Portfolio: [https://batuhanguc.carrd.co](https://batuhanguc.carrd.co)
+- 💼 LinkedIn: [https://www.linkedin.com/in/batuhanguc/](https://www.linkedin.com/in/batuhanguc/)
+- 🎮 itch.io:  [https://batuhan-guc.itch.io](https://batuhan-guc.itch.io)
+- ✍️ Medium:   [https://medium.com/@batuhangucc](https://medium.com/@batuhangucc)
