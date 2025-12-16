@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/batuhangucc/batuhangucc/main/Bannergit.png" alt="Game Developer Banner" />
+</p>
+
 <h1 align="center">Selam, ben Batuhan Güç 👋</h1>
 
 <p align="center">
