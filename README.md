@@ -16,10 +16,7 @@ Karmaşık sorunları analiz ederken sadece "bir kullanıcı" gibi değil, "bir 
 ---
 
 ## 🛠️ Teknik Yetkinlikler
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=windows" />
-  <img src="https://simpleicons.org/icons/microsoftsqlserver.svg" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=python,cs,unity,git" />
+ <img src="https://skillicons.dev/icons?i=windows" width="40" /> | <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" /> | <img src="https://skillicons.dev/icons?i=python,cs" width="80" /> | <img src="https://skillicons.dev/icons?i=git,github" width="80" /> |>
 </p>
 </p>
 
