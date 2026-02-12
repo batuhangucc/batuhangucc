@@ -7,11 +7,9 @@
 ---
 
 ## 👨‍💻 Hakkımda
-Yazılım geliştirme disiplinine sahip bir **Bilgisayar Mühendisiyim.** Kariyerimi **IT Altyapı, Sistem Yönetimi ve Veritabanı Mimarisi** üzerine inşa ediyorum.
+"Bilgisayar Mühendisiyim. Kariyerimi Sistem Yönetimi ve Oyun Geliştirme olmak üzere iki güçlü sütun üzerinde inşa ediyorum.
 
-Oyun geliştirme (Unity/C#) geçmişimden gelen **algoritmik düşünme, optimizasyon ve nesne yönelimli programlama (OOP)** yeteneklerimi, sistem süreçlerini otomatize etmek ve verimli IT çözümleri üretmek için kullanıyorum.
-
-Karmaşık sorunları analiz ederken sadece "bir kullanıcı" gibi değil, "bir mühendis" gibi sistemin arka planını görerek çözüm üretiyorum.
+Bir yanda, kurumsal IT altyapıları, ağ yönetimi ve SQL veritabanı mimarileri üzerine uzmanlaşırken; diğer yanda Unity ve C# ile performans odaklı oyun projeleri geliştiriyorum. Sistem tarafındaki operasyonel disiplinim ile yazılım tarafındaki algoritmik bakış açımı birleştirerek, hem altyapı hem de geliştirme süreçlerinde katma değer üreten çözümler sunuyorum."
 
 ---
 
