@@ -1,7 +1,7 @@
 <h1 align="center">Selam, ben Batuhan Güç 👋</h1>
 
 <p align="center">
-💻 Bilgisayar Mühendisi | Sistem Uzman Yardımcısı | SQL & C# Developer
+💻 Sistem Uzman Yardımcısı | SQL & CISCO & UNITY & C# Developer
 </p>
 
 ---
