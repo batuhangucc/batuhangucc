@@ -17,7 +17,7 @@ Karmaşık sorunları analiz ederken sadece "bir kullanıcı" gibi değil, "bir 
 
 ## 🛠️ Teknik Yetkinlikler
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=windows,mssql,python,cs,unity,git" />
+ <img src="https://skillicons.dev/icons?i=windows,mssql,python,cs,unity,git" />
 </p>
 
 - **Sistem Yönetimi:** Windows Server, Active Directory, Ağ Yönetimi (TCP/IP), Donanım & Yazılım Entegrasyonu.
