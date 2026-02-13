@@ -6,14 +6,14 @@
 
 ---
 
-## 👨‍💻 Hakkımda
+## Hakkımda
 "Bilgisayar Mühendisiyim. Kariyerimi Sistem Yönetimi ve Oyun Geliştirme olmak üzere iki güçlü sütun üzerinde inşa ediyorum.
 
 Bir yanda, kurumsal IT altyapıları, ağ yönetimi ve SQL veritabanı mimarileri üzerine uzmanlaşırken; diğer yanda Unity ve C# ile performans odaklı oyun projeleri geliştiriyorum. Sistem tarafındaki operasyonel disiplinim ile yazılım tarafındaki algoritmik bakış açımı birleştirerek, hem altyapı hem de geliştirme süreçlerinde katma değer üreten çözümler sunuyorum."
 
 ---
 
-## 🛠️ Teknik Yetkinlikler
+## Teknik Yetkinlikler
  <img src="https://skillicons.dev/icons?i=windows" width="40" />  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" />  <img src="https://skillicons.dev/icons?i=python,cs" width="80" />  <img src="https://skillicons.dev/icons?i=git,github" width="80" /> 
 </p>
 </p>
@@ -24,9 +24,9 @@ Bir yanda, kurumsal IT altyapıları, ağ yönetimi ve SQL veritabanı mimariler
 
 ---
 
-## 🚀 Sistem & Veritabanı Projeleri
+## Sistem & Veritabanı Projeleri
 
-### 📦 Kurumsal IT Envanter Yönetim Sistemi (SQL)
+### Kurumsal IT Envanter Yönetim Sistemi (SQL)
 *Şirket içi demirbaş takibi ve zimmet operasyonları için geliştirdiğim ilişkisel veritabanı çözümü.*
 - **Mühendislik Yaklaşımı:** Veri tutarlılığını (ACID) sağlamak için `Constraint` yapıları kuruldu.
 - **Otomasyon:** Cihaz zimmetlendiğinde veya iade edildiğinde stok durumunu anlık güncelleyen **Trigger** algoritmaları yazıldı.
@@ -34,10 +34,10 @@ Bir yanda, kurumsal IT altyapıları, ağ yönetimi ve SQL veritabanı mimariler
 
 ---
 
-## 💻 Yazılım Geliştirme & C# Projeleri
+## Yazılım Geliştirme & C# Projeleri
 *Yüksek performanslı kod yazma ve mimari kurma yeteneklerimi sergilediğim mühendislik projelerim.*
 
-### 🎮 Unity & C# Geliştirme (Independent Developer)
+### Unity & C# Geliştirme (Independent Developer)
 - **Teknik Detay:** Karmaşık oyun mekaniklerini **C#** ve **OOP (Nesne Yönelimli Programlama)** prensipleriyle geliştirdim.
 - **Kazanımlar:**
   - Bellek Yönetimi (Memory Management) ve Performans Optimizasyonu.
